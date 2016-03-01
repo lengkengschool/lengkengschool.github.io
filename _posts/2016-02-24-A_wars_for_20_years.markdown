@@ -4,7 +4,7 @@ title:  "一场持续 20 年的较量"
 date:   2016-02-24 21:12:18 +0800
 categories: 20years
 ---
- *by 浩坚*
+ *by Never*
 
 <img src="/assets/images/door.jpg">
 
